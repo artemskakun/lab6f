@@ -1,0 +1,9 @@
+build
+gradlew
+gradlew.bat
+settings.gradle
+build
+.idea
+.gradle
+report
+rep.xml
